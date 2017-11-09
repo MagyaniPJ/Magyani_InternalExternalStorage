@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.pjmagyani.magyaniinternalexternalstorage.SecondActivity">
+    tools:context="com.example.pjmagyani.magyaniinternalexternalstorage.Main2Activity">
 
     <Button
         android:id="@+id/btnSP"
